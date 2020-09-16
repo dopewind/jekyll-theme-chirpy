@@ -7,7 +7,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Dopewind # the main title
+title: Lit # the main title
 
 tagline: A random guy with a computer # it will display as the sub-title
 
@@ -48,7 +48,7 @@ google_site_verification: l4C9SqrFsHFwusrS9yvxO42cjFoGUoZ0g6dOr9vyhsA # change t
 baseurl: ""
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 google_analytics:
   id: "UA-178034944-1" # Fill with your Google Analytics ID
