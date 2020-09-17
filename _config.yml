@@ -20,7 +20,7 @@ url: "https://dopewind.github.io"
 
 author: Karthik Vinayan # change to your full name
 
-avatar: assets/img/avatar.png # support internet resources
+avatar: https://raw.githubusercontent.com/dopewind/assets/master/avatar.png # support internet resources
 
 github:
   username: dopewind # change to your github username
