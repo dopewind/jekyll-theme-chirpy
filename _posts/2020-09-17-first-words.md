@@ -2,7 +2,7 @@
 title: First Words
 date: 2020-09-17 10:20:00 +/-TTTT
 categories: [blog]
-tags: [blog] # TAG names should always be lowercase
+tags: [blog, welcome] # TAG names should always be lowercase
 ---
 
 # First Words
