@@ -16,4 +16,6 @@ If you just stumbled out into here, you are probably one of the handful few who'
 
 If you don't know what to do, congratulations again, I don't either
 
+PS. It's not **Lit**(*erature*) it's **Lit**(*erally*)
+
 ✌
