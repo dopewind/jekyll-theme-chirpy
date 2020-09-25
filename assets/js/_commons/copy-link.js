@@ -18,5 +18,4 @@ function copyLink(url) {
   $temp.remove();
 
   alert("Link copied successfully!");
-
 }
